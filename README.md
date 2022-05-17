@@ -1,3 +1,3 @@
-# angular-state-pattern-by-rneto
+# Angular State Pattern example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-state-pattern-rneto)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-state-pattern-by-rneto)
